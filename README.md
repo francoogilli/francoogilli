@@ -11,9 +11,11 @@
 ###
 
 
-🌍  I'm based in San Francisco, Cordoba
-🖥️  See my portfolio at [Personal Website](http://francogilli.vercel.app/)
-✉️  You can contact me at [francogilli10@gmail.com](mailto:francogilli10@gmail.com)
+<ul>
+  <li>🌍  Actualmente vivo en San Francisco, Córdoba.</li>
+  <li>🖥️  Puedes ver mi portfolio en  <a href="http://francogilli.vercel.app/">Portfolio Website</a></li>
+  <li>✉️  Puedes contactarme atraves de <a href="mailto:francogilli10@gmail.com">francogilli10@gmail.com</a></li>
+</ul>
 
 ###
 
